@@ -60,6 +60,10 @@ span {
     font-size: 50px;
   }
 
+  section {
+    text-align: center;
+  }
+
   .btn-branding-secondary {
     margin: 10px 0px;
   }
